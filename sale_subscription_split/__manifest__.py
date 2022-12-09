@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Sale Subscription Split",
+    'name': "Sale Delivery Plan Date",
 
     'summary': """
         Gestione di un Delivery Plan""",
